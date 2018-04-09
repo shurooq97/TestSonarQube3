@@ -1,6 +1,6 @@
 <project default="all" basedir="." xmlns:sonar="antlib:org.sonar.ant">
 
-<property name="src.java.dir" location="./src/test"/>
+<property name="src.java.dir" location="./src/taskb"/>
 
 <property name="result.dir" location="./target"/>
 
